@@ -32,6 +32,7 @@ This is my  Portfolio Website designed to show my technical skills and achieveme
 1.Clone the repository
 ```bash
     git clone https:/https://github.com/24B11CS207/Portfolio
+```
 2.Open the Project folder
 
 3.Open Portfolio.html in your web browser
